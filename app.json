@@ -1,0 +1,38 @@
+{
+    "name": "Railway Documentation",
+    "description": "xray websocket proxy on heroku",
+    "keywords": ["xray vmess vless trojan shadowsocks socks tor"],
+    "env": {
+        "AA": {
+            "description": "btopm",
+            "value": "top"
+        },
+        "AUUID": {
+            "description": "UID",
+            "value": "24b4b1e1-7a89-45f6-858c-242cf53b5bdb"
+        },
+        "CADDYIndexPage": {
+            "description": "your username",
+            "value": "https://github.com/AYJCSGM/mikutap/archive/master.zip"
+        },
+        "CONFIGCADDY": {
+            "description": "Hello word",
+            "value": "https://raw.githubusercontent.com/YankeeAnn/Railway_Starters/master/etc/Caddyfile"
+        },
+        "CONFIGXRAY": {
+            "description": "he",
+            "value": "https://raw.githubusercontent.com/YankeeAnn/Railway_Starters/master/etc/xray.json"
+        },
+        "ParameterSSENCYPT": {
+            "description": "ss passed",
+            "value": "chacha20-ietf-poly1305"
+        },
+        "StoreFiles": {
+            "description": "list",
+            "value": "https://raw.githubusercontent.com/YankeeAnn/Railway_Starters/master/etc/StoreFiles"
+        }
+    },
+    "website": "https://github.com/YankeeAnn/Railway_Starters",
+    "repository": "https://github.com/YankeeAnn/Railway_Starters",
+    "stack": "container"
+}
